@@ -1,17 +1,20 @@
-
 # Jalinson Vargas · Desarrollador Full Stack
 
 Construyo aplicaciones web con React y TypeScript.
-Cofundador de **LaCaja AI**, un POS offline-first para pequeños comercios en Colombia.
+Cofundador de **Barvaz**, empresa de software para PYMES colombianas.
+Nuestro producto principal es **LaCaja AI**, una app de facturación offline-first con arquitectura multi-tenant.
 
 ---
 
 ## Stack
 
 ```
-Frontend   React · TypeScript · JavaScript · Vite · Tailwind CSS · HTML · CSS
-Backend    Node.js · PHP · MySQL · SQL
-Otros      Git · GitHub Copilot · ESLint · Python · Scrum
+Frontend     React · TypeScript · JavaScript · Astro · Vite · Tailwind CSS · HTML · CSS
+Backend      Node.js · PHP · MySQL · SQL
+Offline/Sync PowerSync · SQLite embebido · offline-first · multi-tenant
+IA           Chat de IA integrado · conexión a WhatsApp
+Deployment   Cloudflare (Pages · Workers · CDN) · GitHub Actions
+Calidad      Biome · Lefthook · Git · GitHub Copilot
 ```
 
 ---
@@ -19,9 +22,13 @@ Otros      Git · GitHub Copilot · ESLint · Python · Scrum
 ## Proyecto activo
 
 ### [LaCaja AI](https://barvaz.com.co)
-POS offline-first para tenderos, panaderos y comercios pequeños en Colombia.
+App de facturación offline-first multi-tenant para comercios pequeños en Colombia.
 Funciona sin internet y sincroniza al recuperar conexión.
-`React` `TypeScript` `Vite` `Tailwind` `IndexedDB`
+Incluye chat de IA integrado con conexión a WhatsApp.
+
+`React` `TypeScript` `Vite` `Tailwind` `PowerSync` `SQLite` `Astro` `Cloudflare`
+
+Organización: [github.com/barvaz-engineering](https://github.com/barvaz-engineering)
 
 ---
 
@@ -31,18 +38,3 @@ Funciona sin internet y sincroniza al recuperar conexión.
 📍 Bucaramanga, Colombia
 🔗 [linkedin.com/in/jalinson-dayan-vargas-barrios-b3691911a](https://www.linkedin.com/in/jalinson-dayan-vargas-barrios-b3691911a/)
 🌐 [barvaz.com.co](https://barvaz.com.co)
-<!--
-**JalVargas/JalVargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-.
