@@ -1,19 +1,48 @@
-Jalinson Vargas
-Co-founder · CTO en Barvaz, Bucaramanga, Colombia.
-Trabajo con React, TypeScript, Astro, Node.js, PHP, MySQL, D1 y Cloudflare.
-En Barvaz construimos LaCaja AI, una aplicación de facturación offline-first para pequeños comercios en Colombia. Usa PowerSync, SQLite embebido, arquitectura multi-tenant e integración de IA con WhatsApp.
-Stack
-Frontend: React, TypeScript, JavaScript, Astro, Vite, Tailwind CSS, HTML, CSS
-Backend: Node.js, PHP, MySQL, SQL
-Offline/sync: PowerSync, SQLite embebido, offline-first, multi-tenant
-IA aplicada: Codex, Claude Code, OpenCode, GitHub Copilot, chat de IA integrado, WhatsApp
-Deployment: Cloudflare Pages, Workers, CDN, GitHub Actions
-Calidad: Biome, Lefthook, Git, code review
-LaCaja AI
-App de facturación offline-first multi-tenant para comercios pequeños en Colombia. Funciona sin internet y sincroniza al recuperar conexión. Incluye chat de IA integrado con conexión a WhatsApp. Landing pages en Astro desplegadas en Cloudflare. Pipelines de calidad con Biome, Lefthook y GitHub Actions.
-Web: https://barvaz.com.co
-Organización: https://github.com/barvaz-engineering
-Contacto
-Email: vargasjalinson@gmail.com
-LinkedIn: https://www.linkedin.com/in/jalinson-dayan-vargas-barrios-b3691911a/
-Web: https://barvaz.com.co
+# Jalinsón Vargas
+
+**Fundador & CTO** | Bucaramanga, Colombia  
+[barvaz.com.co](https://barvaz.com.co) • [GitHub](https://github.com/barvaz-engineering) • [LinkedIn](https://www.linkedin.com/in/jalinson-dayan-vargas-barrios-b3691911a/)
+
+---
+
+## Acerca de mí
+
+Construyo **LaCaja AI** — aplicación de facturación offline-first y multi-tenant para pequeños comercios en Colombia. Trabajo con React, TypeScript, Node.js, PHP e infraestructura en la nube. Obsesionado con entregar software de calidad con pipelines de automatización.
+
+---
+
+## Proyectos Actuales
+
+**LaCaja AI** – Facturación y POS para pequeños negocios  
+- Funciona sin internet, sincroniza al recuperar conexión
+- Integración con WhatsApp para gestionar leads de clientes
+- Arquitectura multi-tenant con SQLite + PowerSync
+- Landing pages en Astro + Cloudflare
+
+---
+
+## Stack Tecnológico
+
+**Frontend**  
+React, TypeScript, Astro, Vite, Tailwind CSS, JavaScript, HTML/CSS
+
+**Backend**  
+Node.js, PHP, MySQL, SQL, SQLite embebido, PowerSync (sincronización offline)
+
+**DevOps e Integraciones**  
+Cloudflare (Pages, Workers, CDN), GitHub Actions, Copilot, Biome, Lefthook, Git
+
+**IA y Nube**  
+Claude Code, OpenCode, Codex, integración Google Cloud, Gemini
+
+---
+
+## Contacto
+
+📧 [vargasjalinson@gmail.com](mailto:vargasjalinson@gmail.com)  
+🌐 [barvaz.com.co](https://barvaz.com.co)  
+💼 [Organización GitHub](https://github.com/barvaz-engineering)
+
+---
+
+**Enfoque en calidad:** Linting con Biome, pre-commit con Lefthook, CI/CD con GitHub Actions
